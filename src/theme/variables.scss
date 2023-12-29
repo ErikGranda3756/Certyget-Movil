@@ -74,9 +74,17 @@
   --ion-color-light-contrast-rgb: 0, 0, 0;
   --ion-color-light-shade: #d7d8da;
   --ion-color-light-tint: #f5f6f9;
+  /** Certyget-Colors **/
+  --ion-color-certyget: #c2ffff;
+  --ion-color-submit: #00404c;
+  --ion-color-certyget-rgb: 244, 245, 248;
+  --ion-color-certyget-contrast: #000000;
+  --ion-color-certyget-contrast-rgb: 0, 0, 0;
+  --ion-color-certyget-shade: #d7d8da;
+  --ion-color-certyget-tint: #f5f6f9;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   /*
    * Dark Colors
    * -------------------------------------------
